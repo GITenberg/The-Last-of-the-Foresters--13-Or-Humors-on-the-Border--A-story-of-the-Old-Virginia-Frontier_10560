@@ -1,5 +1,8 @@
 _repo: The-Last-of-the-Foresters--13-Or-Humors-on-the-Border--A-story-of-the-Old-Virginia-Frontier_10560
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Cooke, John Esten
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2736
     wikipedia: http://en.wikipedia.org/wiki/John_Esten_Cooke
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10560#The-Last-of-the-Foresters--13-Or-Humors-on-the-Border--A-story-of-the-Old-Virginia-Frontier
 gutenberg_issued: '2004-01-01'
 gutenberg_type: Text
 identifiers:
